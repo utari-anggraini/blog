@@ -1,0 +1,18 @@
+# some information about you
+name: "Utari Anggraini"
+nickname: "Utari"
+image: "images/avater.jpeg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "utarianggrainiii@gmail.com"
+  phone: "+6282170445304"
+
+# a summary of what you do
+summary:
+- I am a Developer
+- I work with Go
+- I love to work with some fun projects

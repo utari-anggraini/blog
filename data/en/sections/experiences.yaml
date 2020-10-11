@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+
+- company:
+    name: Lab. Akuntansi Menengah Universitas Gunadarma.
+    url: "https://www.ak-menengah.com"
+    location: Gunadarma Unviersity
+    overview: 
+  positions:
+  - designation: Programmer
+    start: Aug 2019
+    end: Sep 2020
+    responsibilities:
+    - Maintaining PC.
+    - Building Website for Accounting Laboratory Gunadarma University.
+
+- company:
+    name: PT. SMBR (Singgar Mulia & Brown & Roots Company).
+    url: "https://www.intern.com"
+    location: Duri. Riau Indonesia
+    overview: 
+  positions:
+  - designation: Intern
+    start: Aug 2018
+    end: Sep 2018
+    responsibilities:
+    - input asset register to SMBR ICT system.
+    - Assit SMBR ICT team in daily helpdesk.
+    - Assist to control ICT stock record.
+    - Assist to develop reporting system for ICT asset.
+    - Assit on Maintenance ICT web portal.

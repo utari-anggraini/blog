@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+
+# your projects
+projects:
+- name: Company Profile
+  logo: images/projects/kubernetes.png
+  role: Programmer
+  timeline: "Aug 2019 - Sept 2020"
+  url: "ak-menengah.com"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Building Company Profile for Lab. Akuntansi Menengah.
+  tags: ["professional", "kubernetes", "cloud"]
+
+- name: Penulisan Ilmiah
+  logo: images/projects/tensorflow.png
+  role: Student
+  timeline: "Jun 2018 - Present"
+  repo: https://github.com/tensorflow/tensorflow
+  #url: ""
+  summary: An Open Source Machine Learning Framework for Everyone.
+  tags: ["professional", "machine-learning","academic"]
